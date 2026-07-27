@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "VALIANT BLACK",
+    "description": "A bold collector's edition.\nCrafted with timeless elegance.",
+    "price": 120,
+    "image": "black",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "VALIANT SILVER",
+    "description": "Minimalist design meets premium craftsmanship.\nA modern collector's favorite.",
+    "price": 140,
+    "image": "silver",
+    "status": "premium"
+  },
+  {
+    "id": 3,
+    "title": "VALIANT BLUE",
+    "description": "Inspired by midnight skies.\nClean lines with futuristic styling.",
+    "price": 160,
+    "image": "blue",
+    "status": "popular"
+  },
+  {
+    "id": 4,
+    "title": "VALIANT GOLD",
+    "description": "Luxury in every detail.\nDesigned for discerning collectors.",
+    "price": 240,
+    "image": "gold",
+    "status": "premium"
+  },
+  {
+    "id": 5,
+    "title": "VALIANT MIDNIGHT",
+    "description": "Dark aesthetics with refined finishes.\nAn icon of modern design.",
+    "price": 180,
+    "image": "midnight",
+    "status": "popular"
+  },
+  {
+    "id": 6,
+    "title": "VALIANT PLATINUM",
+    "description": "Cool metallic textures.\nPrecision and crafted for display.",
+    "price": 300,
+    "image": "platinum",
+    "status": "limited"
+  }
+  
+]
